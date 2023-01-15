@@ -1,2 +1,2 @@
 # Hello-Gladys
-this is where i have my projects
+Demo project to learn circle-ci
